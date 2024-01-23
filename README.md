@@ -1,7 +1,11 @@
+
+![IMG_1524](https://github.com/85-Astatine/5-DOF-robotic-arm/assets/84365147/d42069fa-c759-44f8-8158-a81bd07bc6ec)
+
 5 Degree of Freedom Robotic Arm with STM32 Microcontroller
 Overview
 This repository contains the firmware and documentation for a 5 Degree of Freedom (5-DOF) robotic arm, powered by an STM32 microcontroller. The robotic arm is designed for versatile applications, including educational purposes, hobbyist projects, and small-scale automation.
 
+![20220130_140917](https://github.com/85-Astatine/5-DOF-robotic-arm/assets/84365147/781e870a-fe8b-4046-ab32-c6b83b5d0fb8)
 
 Features
 5 Degrees of Freedom: The robotic arm features 5 joints, providing a wide range of motion and flexibility.
